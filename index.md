@@ -10,7 +10,7 @@ Here are some examples of what you can do with Markdown.
 
 Markdown was designed for the web, so it should come as no surprise that there are plenty of applications specifically designed for creating website content.
 
-If you're looking for the simplest possible way to create a website with Markdown files, check out [blot.im](https://blot.im). After you sign up for Blot, it creates a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and â€” poof! â€” they're on your website. It couldn't be easier.
+If you're looking for the simplest possible way to create a website with Markdown files, check out [blot.im](https://blot.im). After you sign up for Blot, it creates a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and — poof! — they're on your website. It couldn't be easier.
 
 If you're familiar with HTML, CSS, and version control, check out [Jekyll](/tools/jekyll/), a popular static site generator that takes Markdown files and builds an HTML website. One advantage to this approach is that [GitHub Pages](/tools/github-pages/) provides free hosting for Jekyll-generated websites. If Jekyll isn't your cup of tea, just pick one of the [many other static site generators available](https://jamstack.org/generators/).
 
@@ -22,7 +22,7 @@ If you'd like to use a content management system (CMS) to power your website, ta
 
 ### Documents
 
-Markdown doesn't have all the bells and whistles of word processors like Microsoft Word, but it's good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is key, because once you have a PDF document, you can do anything with it â€” print it, email it, or upload it to a website.
+Markdown doesn't have all the bells and whistles of word processors like Microsoft Word, but it's good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is key, because once you have a PDF document, you can do anything with it — print it, email it, or upload it to a website.
 
 Here are some Markdown document authoring applications I recommend:
 
@@ -33,7 +33,7 @@ Here are some Markdown document authoring applications I recommend:
 - **Web:** [Dillinger](/tools/dillinger/) or [StackEdit](/tools/stackedit/)
 
 <div class="alert alert-success">
-  <i class="fas fa-lightbulb"></i> <strong>Tip:</strong> <a href="https://ia.net/writer/templates/">iA Writer</a> provides templates for previewing, printing, and exporting Markdown-formatted documents. For example, the "Academic â€“ MLA Style" template indents paragraphs and adds double sentence spacing.
+  <i class="fas fa-lightbulb"></i> <strong>Tip:</strong> <a href="https://ia.net/writer/templates/">iA Writer</a> provides templates for previewing, printing, and exporting Markdown-formatted documents. For example, the "Academic – MLA Style" template indents paragraphs and adds double sentence spacing.
 </div>
 
 ### Notes
@@ -66,9 +66,9 @@ Collaboration and team messaging applications are a popular way of communicating
 
 ### Documentation
 
-Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation â€” check out their [blog post](https://github.com/blog/1939-how-github-uses-github-to-document-github) about how they migrated their Markdown-formatted documentation to [Jekyll](/tools/jekyll/). If you write documentation for a product or service, take a look at these handy tools:
+Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation — check out their [blog post](https://github.com/blog/1939-how-github-uses-github-to-document-github) about how they migrated their Markdown-formatted documentation to [Jekyll](/tools/jekyll/). If you write documentation for a product or service, take a look at these handy tools:
 
-- [Read the Docs](https://readthedocs.org) can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push â€” Read the Docs does the rest. They also have a [service for commercial entities](https://readthedocs.com/).
+- [Read the Docs](https://readthedocs.org) can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push — Read the Docs does the rest. They also have a [service for commercial entities](https://readthedocs.com/).
 - [MkDocs](/tools/mkdocs/) is a fast and simple static site generator that's geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several [built in themes](https://www.mkdocs.org/user-guide/styling-your-docs/), including a port of the [Read the Docs](https://readthedocs.org/) documentation theme for use with MkDocs. One of the newest themes is [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 - [Docusaurus](/tools/docusaurus/) is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.
 - [VuePress](https://vuepress.vuejs.org/) is a static site generator powered by [Vue](https://vuejs.org/) and optimized for writing technical documentation.
